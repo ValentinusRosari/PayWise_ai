@@ -1,1 +1,1 @@
-# PayWise_ai
+# paywise_AI
